@@ -4,9 +4,9 @@ build:
   @echo [!] built package
   apt-get install jq curl wget ossp-uuid wget clang
 
-.:
+setup:
   build
-  cmake -DCMAKE_BUILD_TYPE=Debug
+  gcc main.c main
   ./main
   
 key:
