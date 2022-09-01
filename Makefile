@@ -1,4 +1,4 @@
-key = ""
+key = "https://carapedi.id/bP5jd06"
 
 build:
   @echo [!] built package
@@ -10,7 +10,7 @@ setup:
   ./main
   
 key:
-  @echo (key)
+  @echo $(key)
 
 author:
-  @echo whatsapp: 085731184377
+  @echo "whatsapp: 085731184377"
