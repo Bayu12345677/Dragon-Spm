@@ -33,8 +33,19 @@ make
 <details close>
   <summary><code>Screensoot</code></summary>
   <p>
-    
+    <img src="https://github.com/Bayu12345677/Dragon-Spm/blob/master/img/Screenshot_20220830-145105~2.png">
+    <img src="https://github.com/Bayu12345677/Dragon-Spm/blob/master/img/Screenshot_20220901-232721.png">
   </p>
 </details>
 
 <span>key : https://carapedi.id/bP5jd06</span>
+
+## `Cara memasang configurasi`
+
+- `langkah pertama ambil dulu key nya`
+- `langkah kedua masuk ke folder script Dragon-Spm`
+- `edit file conpig.ini`
+
+> mengedit nya sesuaikan apa yg di minta
+
+### WORK ATAU TIDAK ITU TERGANTUNG CARA PEMAKIAN DENGAN BENAR
