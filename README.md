@@ -20,7 +20,7 @@ apt-get full-upgrade
 apt-get install git curl cmake clang jq make ossp-uuid
 git clone https://github.com/Bayu12345677/Dragon-Spm
 cd Dragon-Spm
-make
+make setup
 ```
 
 <p>kekurangan</p><br>
