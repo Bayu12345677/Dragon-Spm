@@ -25,7 +25,7 @@ make setup
 
 <p>kekurangan</p><br>
 <p align="center">
-  <li>pengiriman otp dengan kecepatan 10x lipat persend</li>
+  <li>pengiriman otp dengan kecepatan 10x lipat per send</li>
   <li>kadang masuk kadang ga</li>
   <li>tema yg kurang menarik</li><br>
 </p>
