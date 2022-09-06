@@ -17,7 +17,9 @@ jadi jangan salahkan admin jika script ini tidak berjalan dengan semesti nya
 ```haml
 apt-get update
 apt-get full-upgrade
-apt-get install git curl cmake clang jq make ossp-uuid
+apt-get install git curl cmake python clang jq make ossp-uuid
+pip install rich
+pip install rich-cli
 git clone https://github.com/Bayu12345677/Dragon-Spm
 cd Dragon-Spm
 make setup
